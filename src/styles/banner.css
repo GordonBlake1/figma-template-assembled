@@ -1,0 +1,178 @@
+.banner {
+  background: linear-gradient(0deg, #F4F4F4, #F4F4F4),
+  radial-gradient(100% 100% at 52.01% 53.93%, rgba(255, 255, 255, 9e-06) 0%, rgba(0, 0, 0, 0.045) 100%);
+  height: 1083.15px;
+  max-width: 1920px;
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+}
+
+.menu-box {
+  display: flex;
+  width: 1340px;
+  height: 40px;
+  justify-content: space-between;
+  margin-top: 72px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu-icon:hover,
+.home-icon:hover,
+.menu-icon:focus,
+.home-icon:focus {
+  cursor: pointer;
+}
+
+.greenco-and-label-box {
+  width: fit-content;
+  margin-top: 359px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#plant {
+  z-index: 1;
+  width: fit-content;
+  position: absolute;
+  bottom: -10px; 
+  left: 786px;
+}
+
+.banner-2 {
+  height: 793px;
+  background-color: #4A4A4A;
+  max-width: 1920px;
+  margin:auto;
+}
+
+.pic-and-desc-and-button {
+  display: flex;
+  width: 1340px;
+  margin-top: -654px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 262px;
+}
+
+.plant-text {
+  color: #FFFFFF;
+  text-align: justify;
+  max-width: 433px;
+}
+
+.plant-description {
+  padding-left: 150px;
+}
+
+#next {
+  padding-top: 366px;
+  padding-left: 1570px;
+}
+
+.plant-text,
+.vase-description {
+  font-family: "Mukta Vaani", sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+}
+
+.text-green {
+  font-family: "Akronim";
+  font-size: 48px;
+  color: #7A797A;
+  line-height: 54.82px;
+  text-align: left;
+  margin-top: 10px;
+}
+
+#slider {
+  width: 435px;
+  height: 14px;
+  margin-top: 24px;
+}
+
+.button-box {
+  padding-left: 150px;
+  padding-top: 265px;
+  display: flex;
+  align-items: center;
+}
+
+.gallery-button {
+  font-family: "Koulen", sans-serif;
+  color: #7A797A;
+  border: 3px solid #7A797A;
+  font-size: 36px;
+  line-height: 65px;
+  letter-spacing: 8px;
+  padding: 4px 30px;
+  background-color: white;
+}
+
+button:hover,
+button:focus {
+  color: black;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.arrow {
+  font-size: 80px;
+  color: #a1a1a1;
+  padding-left: 26px;
+}
+
+#plant-title {
+  font-family: "Work Sans", sans-serif;
+  font-size: 81px;
+  color: #FFFFFF;
+  line-height: 100px;
+  letter-spacing: 18.984375px;
+  text-align: left;
+  padding-top: 66px;
+}
+
+#sidebar {
+  font-family: "Roboto", sans-serif;
+  font-size: 48px;
+  color: #7A797A;
+  line-height: 55.34px;
+  letter-spacing: 10.666666984558105px;
+  text-align: left;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  padding-top: 30px;
+}
+
+.vases-and-pots {
+  display: flex;
+  flex-direction: row;
+  width: 1019px;
+  height: 619px;
+  margin: 0 auto;
+}
+
+.vase-description {
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 46px;
+  padding-right: 46px;
+}
+
+.footer {
+  display: flex;
+  margin-top: 122px;
+  max-width: 1920px;
+  margin: auto;
+}
+
+.footer-plant-box {
+  width: 47%;
+}
+
+#footer-plant {
+  padding-left: 100px;
+}
+
